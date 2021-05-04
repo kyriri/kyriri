@@ -9,7 +9,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
 <img src="https://img.shields.io/badge/Flask-815A74?style=for-the-badge&logo=flask&logoColor=white" >
 
-<BR>
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=kyriri&show_icons=true" min-width="400px" max-width="400px" width="400px" alt="github stats">
-
+</p>
+  
 </div>
