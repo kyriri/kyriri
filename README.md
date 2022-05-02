@@ -2,16 +2,15 @@
   Hi there! I'm Kyriri, a web-developer with front-end capabilities now delving into <strong>back-end</strong>.
 </p>
 <p align="left">
-  I'm currently following Udacity's <a href ='https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044' target='_blank'>Full-Stack Web Development Nanodegree</a>.
+  I'm currently doing an awesome bootcamp called <a href ='https://treinadev.com.br/' target='_blank'>Treinadev</a>.
 </p>
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-A5BF35?style=for-the-badge&logo=html5&logoColor=white" >
-  <img src="https://img.shields.io/badge/CSS-068682?&style=for-the-badge&logo=css3&logoColor=white" >
-  <img src="https://img.shields.io/badge/JavaScript-E6A425?&style=for-the-badge&logo=javascript&logoColor=white" >
-  <img src="https://img.shields.io/badge/Python-6DC2C1?style=for-the-badge&logo=python&logoColor=white" >
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
-  <img src="https://img.shields.io/badge/Flask-815A74?style=for-the-badge&logo=flask&logoColor=white" >
+  <img src="https://img.shields.io/badge/CSS-E6A425?&style=for-the-badge&logo=css3&logoColor=white" >
+  <img src="https://img.shields.io/badge/JavaScript-316192?&style=for-the-badge&logo=javascript&logoColor=white" >
+  <img src="https://img.shields.io/badge/Ruby-B61D1D?&style=for-the-badge&logo=ruby&logoColor=white" >
+  <img src="https://img.shields.io/badge/Rails-red?&style=for-the-badge&logo=rubyonrails&logoColor=white" >
 </div>
 <p>
   <BR>
