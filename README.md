@@ -1,8 +1,11 @@
 <p align="left">
-  Hi there! I'm Kyriri, a web-developer with front-end capabilities now delving into <strong>back-end</strong>.
+  Hi there! I'm Kyriri, a Ruby and Rails developer who enjoys <strong>back-end</strong> programming and <strong>TDD</strong>.
 </p>
 <p align="left">
-  I'm currently doing an awesome bootcamp called <a href ='https://treinadev.com.br/' target='_blank'>Treinadev</a>.
+  I have experience working in team projects that follow Agile guidelines, and in not getting movie jokes.
+</p>
+<p align="left">
+  Currently studying ReactJS.
 </p>
 
 <div>
